@@ -2,8 +2,6 @@
 
 * Para criar uma network é necessário que já tenha um projeto definido dentro do Openstack.
 
-* Para criar o projeto e login, basta autenticar-se com o usuário **admin** no painel web Openstack e seguir os passos abaixo:
-
 ### Exportando as variavéis de ambiente:
 
 * Login do usuário
