@@ -8,7 +8,7 @@
 
 * Login do usuário
 * Password do usuário
-* Endereço da API do Openstack iCasei
+* Endereço da API do Openstack 
 * Nome do Projeto
 
 ```bash
